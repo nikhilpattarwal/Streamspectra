@@ -1,5 +1,5 @@
-# React + Vite
-
+React + Vite
+Hosting Link - https://nikhil-pattarwal-streamspectra.netlify.app/
 ## MoviesHub
 MoviesHub is a React-based web application that allows users to explore and discover information about movies and TV shows. The application provides features such as searching, sorting, and detailed information about movies and TV shows. You can watch trailers and suggested content.
 
