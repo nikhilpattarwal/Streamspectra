@@ -24,7 +24,7 @@ Installation
 
 . bash
 . Copy code
-. git clone <repository-url>
+. git clone <https://github.com/nikhilpattarwal/Streamspectra>
 
 ## Navigate to the project directory:
 . bash
